@@ -1,0 +1,2 @@
+# wpeztick
+self learning wordpress
